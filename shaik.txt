@@ -1,2 +1,4 @@
 devops practice
 adding files
+commit 
+push
